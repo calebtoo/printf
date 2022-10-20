@@ -40,7 +40,7 @@ int print_d(va_list ar_list)
 }
 /**
  * print_i - Print the integers (%i)
- * @ar_list: Store list numbers
+ * @ar_list: Store list of numbers
  * Return: Number print
  */
 

@@ -16,7 +16,7 @@ int print_c(va_list ar_list)
 /**
  * print_s - print string (%s)
  * @ar_list: Store the a list of characters
- * Return: num of parameters printed
+ * Return: number of parameters printed
  */
 
 int print_s(va_list ar_list)
